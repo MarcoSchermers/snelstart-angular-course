@@ -12,4 +12,7 @@ Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
     - Video bij bovenstaand artikel: https://www.youtube.com/watch?v=CUxD91DWkGM
     
  ## Dag 2
- - ...
+ - Geen aanvullende links
+
+## Dag 3
+- ...
