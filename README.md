@@ -15,4 +15,5 @@ Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
  - Geen aanvullende links
 
 ## Dag 3
-- ...
+- meer informatie over `module.forRoot(...)` functie. https://medium.com/slackernoon/when-to-use-angulars-forroot-method-400094a0ebb7
+
