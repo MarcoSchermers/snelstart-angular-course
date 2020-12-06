@@ -2,7 +2,6 @@
 # snelstart
 Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
 
-## Links
 - `Angular Advanced` repo with example code: https://github.com/PeterKassenaar/AngularAdvanced
 - `Angular Fundamentals` repo met voorbeeldcode: https://github.com/PeterKassenaar/voorbeeldenAngular2
 
