@@ -15,6 +15,8 @@ Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
 - Pascal Precht on Change Detection: https://www.youtube.com/watch?v=CUxD91DWkGM
 - Article on Change Detection, also by Pascal Precht: https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 - Martin Splitt on how google handles JavaScript sites: https://www.youtube.com/watch?v=LXF8bM4g-J4 (check the complete series!)
+- Andre Staltz on creating observables from scratch: https://www.youtube.com/watch?v=uQ1zhJHclvs
+
 
 ## Fundamentals:
 
