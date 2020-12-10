@@ -10,6 +10,8 @@ Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
 ### Day 2
 - Addy Osmani on Performance of web apps in Chrome: https://www.youtube.com/results?search_query=addy+osmani
 - Angular Copilot for static analysis of your application: https://angulardoc.github.io/#/
+- The repository with `@ngrx/store` example app ('platform'): https://github.com/ngrx/platform/tree/master/projects/example-app
+
 
 ### Day 3
 - Pascal Precht on Change Detection: https://www.youtube.com/watch?v=CUxD91DWkGM
