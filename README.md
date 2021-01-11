@@ -7,6 +7,10 @@ Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
 
 ## Advanced:
 
+### Day 1
+- Style Guide - Overall Structural Guidelines: https://angular.io/guide/styleguide#overall-structural-guidelines
+- John Papa on organizing Angular Feature and Shared Modules: https://johnpapa.net/introducing-angular-modules-feature-modules-2/
+
 ### Day 2
 - Addy Osmani on Performance of web apps in Chrome: https://www.youtube.com/results?search_query=addy+osmani
 - Angular Copilot for static analysis of your application: https://angulardoc.github.io/#/
