@@ -4,7 +4,10 @@ Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
 
 - `Angular Advanced` repo with example code: https://github.com/PeterKassenaar/AngularAdvanced
 - `Angular Fundamentals` repo met voorbeeldcode: https://github.com/PeterKassenaar/voorbeeldenAngular2
+
 <img src="user-story.png" alt="expectation vs reality">
+
+
 ## Advanced:
 
 ### Day 1
