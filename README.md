@@ -5,6 +5,9 @@ Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
 - `Angular Advanced` repo with example code: https://github.com/PeterKassenaar/AngularAdvanced
 - `Angular Fundamentals` repo met voorbeeldcode: https://github.com/PeterKassenaar/voorbeeldenAngular2
 
+<img src="user-story.png" alt="expectation vs reality">
+
+
 ## Advanced:
 
 ### Day 1
@@ -24,6 +27,11 @@ Slides en voorbeeldcode voor de training Angular, Snelstart - december 2020
 - Article on Change Detection, also by Pascal Precht: https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 - Martin Splitt on how google handles JavaScript sites: https://www.youtube.com/watch?v=LXF8bM4g-J4 (check the complete series!)
 - Andre Staltz on creating observables from scratch: https://www.youtube.com/watch?v=uQ1zhJHclvs
+
+## Books
+- Rangle.io Angular Book: https://angular-2-training-book.rangle.io/ (online)
+- Pro Angular 9: Build Powerful and Dynamic Web Apps: https://www.amazon.com/dp/1484259971/ref=cm_sw_em_r_mt_dp_NRX.FbW2AG3PT
+- Testing Angular Applications: https://www.amazon.com/dp/1617293644/ref=cm_sw_em_r_mt_dp_gUX.FbVBGZD0W
 
 
 ## Fundamentals:
